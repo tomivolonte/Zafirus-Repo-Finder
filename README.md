@@ -59,3 +59,23 @@ Para escalar esta solución en Zafirus, mi propuesta técnica incluye:
 - **Redis Caching**: Compartir los resultados de búsqueda entre todos los devs para no repetir llamadas costosas a la API de GitHub.
 - **Distributed Workers**: Procesar el enriquecimiento de datos de forma asíncrona para que la búsqueda inicial sea instantánea.
 - **Personalización por equipo**: Permitir que cada equipo de Zafirus (Frontend, Backend, DevOps) tenga sus propios "Ecosystem Standards" preferidos.
+
+---
+
+## 📤 Ejemplos de Output
+
+### 1. FastAPI Boilerplate
+
+![FastAPI Boilerplate](./screenshots%20ejemplos/EJEMPLO%20-%20FastAPI%20boilerplate.png)
+
+---
+
+### 2. JWT Authentication — Python
+
+![JWT Authentication Python](./screenshots%20ejemplos/EJEMPLO%20-%20JWT%20Authentication%20python%20.png)
+
+---
+
+### 3. State Management — React
+
+![State Management React](./screenshots%20ejemplos/EJEMPLO%20-%20State%20management%20React.png)
