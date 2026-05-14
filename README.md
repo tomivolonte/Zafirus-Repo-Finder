@@ -12,16 +12,7 @@ git clone <url-del-repo>
 cd workspace-zafirus
 ```
 
-### 2. Variables de Entorno
-Crea un archivo `.env` en la raíz (puedes copiar el `.env.example` si existe) y agrega tu GitHub Token para evitar el rate limit:
-
-```env
-GITHUB_TOKEN=tu_token_aqui
-# Opcional: para las comparaciones inteligentes con IA
-GEMINI_API_KEY=tu_api_key
-```
-
-### 3. Instalar y ejecutar
+### 2. Instalar y ejecutar
 Recomiendo usar `bun` por velocidad, pero funciona perfecto con `npm` o `pnpm`.
 
 ```bash
@@ -58,7 +49,6 @@ Para este desafío, decidí no confiar solo en las estrellas de GitHub. Implemen
 
 ## ✨ Bonus Implementados
 - **Comparador Inteligente**: Puedes seleccionar hasta 4 repos y ver una comparativa lado a lado.
-- **Sugerencias en tiempo real**: Mientras escribes, el buscador sugiere términos técnicos comunes.
 - **Filtros Avanzados**: Filtrado por estrellas, mantenimiento, licencia y exclusión de forks/archivados.
 - **Detección de Intent**: El sistema entiende si buscas una librería, una herramienta CLI o un boilerplate.
 
