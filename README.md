@@ -29,7 +29,7 @@ La app estará corriendo en [http://localhost:3000](http://localhost:3000).
 
 ---
 
-## 🧠 Mi Fórmula de Scoring: V8 Scope Intelligence
+## 🧠 Mi Fórmula de Scoring:
 
 Para este desafío, decidí no confiar solo en las estrellas de GitHub. Implementé un motor de búsqueda propio que evalúa cada repositorio bajo **11 capas de señales**:
 
