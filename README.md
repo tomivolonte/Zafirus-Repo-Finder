@@ -8,8 +8,8 @@ El proyecto está construido con **Next.js 15 (App Router)** y **TypeScript**.
 
 ### 1. Clonar y configurar
 ```bash
-git clone <url-del-repo>
-cd workspace-zafirus
+git clone https://github.com/tomivolonte/Zafirus-Repo-Finder.git
+cd Zafirus-Repo-Finder
 ```
 
 ### 2. Instalar y ejecutar
